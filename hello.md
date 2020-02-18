@@ -6,3 +6,5 @@
 - add
 - commit
 - push
+
+## 브런치란?
